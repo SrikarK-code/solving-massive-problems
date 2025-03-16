@@ -1,2 +1,3 @@
 # based-2025
-this is gonna be some cool stuff
+plastic degradation protein gen
+cell state modulating protein gen
