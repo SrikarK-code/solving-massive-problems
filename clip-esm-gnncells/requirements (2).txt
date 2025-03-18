@@ -1,0 +1,65 @@
+
+# Core Python Libraries
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tqdm
+
+# TensorFlow and Keras
+tensorflow
+tensorflow-hub
+tensorflow-estimator
+tensorflow-text
+keras
+
+# HuggingFace and Transformers
+transformers
+tokenizers
+huggingface-hub
+
+# GPU and NVIDIA
+torch
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
+nvidia-cuda-runtime-cu12
+nvidia-cusparse-cu12
+
+# Data and File Handling
+h5py
+fsspec
+zstandard
+gdown
+
+# Jupyter and Interactive Tools
+jupyter
+ipython
+ipykernel
+jupyter-console
+nbconvert
+nbclient
+widgetsnbextension
+
+# Authentication and API Utilities
+google-auth
+google-auth-oauthlib
+google-api-python-client
+requests
+oauthlib
+httplib2
+
+# Miscellaneous
+protobuf
+absl-py
+werkzeug
+rsa
+certifi
+pytz
+jsonschema
+wrapt
+astunparse
+fair-esm
+wandb

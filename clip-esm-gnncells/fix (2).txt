@@ -1,0 +1,18 @@
+
+# Upgrade tensorflow, keras, tensorboard, and tensorflow-estimator
+pip install tensorflow==2.13.1 keras==2.13.1 tensorboard==2.13.0 tensorflow-estimator==2.13.0
+
+# Upgrade tqdm to a compatible version
+pip install tqdm==4.66.5
+
+# Upgrade requests to a compatible version
+pip install requests==2.32.3
+
+# Downgrade absl-py to align with colabfold
+pip install absl-py==1.4.0
+
+# Downgrade typing-extensions for tensorflow-cpu compatibility
+pip install typing-extensions==4.5.0
+
+# Downgrade pydantic for pymatgen and emmet-core compatibility
+pip install pydantic==1.10.8
