@@ -9,7 +9,10 @@ import mygene
 # Parameters
 N_HVG = 4000  # Number of highly variable genes
 BATCH_SIZE = 64
-DATA_PATHS = [f"/path/to/plate_{i}.h5ad" for i in range(1, 15)]  # 14 plates
+DATA_PATHS = [
+    f"~/storage/pbg/arc/14_plates/plate{i}_filt_Vevo_Tahoe100M_WServicesFrom_ParseGigalab.h5ad"
+    for i in range(1, 15)
+]
 OUTPUT_PATH = "/path/to/processed_data.h5ad"
 
 # Step 1: Load and Combine All 14 Plates
